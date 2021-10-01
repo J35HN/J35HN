@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Portada2](https://user-images.githubusercontent.com/72514826/135630724-69289293-0d40-46f9-a9a1-babec5aea786.jpg)
 
 Some of my favorite art pieces:
