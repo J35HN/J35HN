@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Portada](https://user-images.githubusercontent.com/72514826/135629577-27890783-09c6-4d0d-8c5f-edb7bdf9511f.jpg)
+![Portada2](https://user-images.githubusercontent.com/72514826/135630724-69289293-0d40-46f9-a9a1-babec5aea786.jpg)
 
 Some of my favorite art pieces:
 ![DemostraciónArte](https://user-images.githubusercontent.com/72514826/135629838-24dfba9d-0c27-465f-b568-e131a2b98973.jpg)
