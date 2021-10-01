@@ -1,4 +1,4 @@
-![Portada3](https://user-images.githubusercontent.com/72514826/135667373-bab07c04-9c79-42df-ac6b-20adcb1d3e56.jpg)
+![Portada4](https://user-images.githubusercontent.com/72514826/135668760-fc4c98ab-60d2-46cc-ad8f-423a8e57fb56.jpg)
 
 Some of my favorite art pieces:
 ![DemostraciónArte](https://user-images.githubusercontent.com/72514826/135629838-24dfba9d-0c27-465f-b568-e131a2b98973.jpg)
