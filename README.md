@@ -1,7 +1,8 @@
 ![Portada4](https://user-images.githubusercontent.com/72514826/135668760-fc4c98ab-60d2-46cc-ad8f-423a8e57fb56.jpg)
 
 Some of my favorite art pieces:
-![DemostraciónArte2](https://user-images.githubusercontent.com/72514826/135669552-9c7f4b71-c671-4080-8052-b06e7f78af22.jpg)
+![DemostraciónArte2](https://user-images.githubusercontent.com/72514826/135669716-4fdd2e7b-519e-4374-86df-5211e25dc2e5.jpg)
+
 <!--
 **J35HN/J35HN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
