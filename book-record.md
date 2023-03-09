@@ -21,6 +21,11 @@
 * [Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince)
 * [Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)
 
+### Suzanne Collins
+* [The Hunger Games](https://www.goodreads.com/book/show/2767052-the-hunger-games)
+* [Catching Fire](https://www.goodreads.com/book/show/6148028-catching-fire)
+* [Mockingjay](https://www.goodreads.com/book/show/7260188-mockingjay)
+
 * Sherlock Holmes
 
 # Essays
