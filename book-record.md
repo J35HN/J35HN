@@ -36,5 +36,11 @@
 ### John Boyne
 * [The Boy in the Striped Pajamas](https://www.goodreads.com/book/show/39999.The_Boy_in_the_Striped_Pajamas)
 
+### Jeff Kinney
+* [Diary of a Wimpy Kid](https://www.goodreads.com/book/show/389627.Diary_of_a_Wimpy_Kid)
+* [Rodrick Rules](https://www.goodreads.com/book/show/1809465.Rodrick_Rules)
+* [The Last Straw](https://www.goodreads.com/book/show/3293821-the-last-straw)
+* [Dog Days](https://www.goodreads.com/book/show/6578293-dog-days)
+
 # Essays
 * Teoría King Kong (King Kong Theory)
