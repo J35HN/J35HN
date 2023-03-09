@@ -42,5 +42,8 @@
 * [The Last Straw](https://www.goodreads.com/book/show/3293821-the-last-straw)
 * [Dog Days](https://www.goodreads.com/book/show/6578293-dog-days)
 
+### Adam Silvera
+* [They Both Die at the End](https://www.goodreads.com/book/show/33385229-they-both-die-at-the-end)
+
 # Essays
 * Teoría King Kong (King Kong Theory)
