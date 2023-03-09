@@ -1,4 +1,4 @@
-# Fantasy
+# Novels / Fantasy
 ### J.R.R. Tolkien
 * [The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit)
 * [The Lord of the Rings: The Fellowship of the Ring](https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring) 
@@ -26,7 +26,6 @@
 * [Catching Fire](https://www.goodreads.com/book/show/6148028-catching-fire)
 * [Mockingjay](https://www.goodreads.com/book/show/7260188-mockingjay)
 
-# Novels
 ### Arthur Conan Doyle
 * [A Study in Scarlet](https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet)
 
@@ -53,6 +52,9 @@
 
 ### Scott O'Dell
 * [Island of the Blue Dolphins](https://www.goodreads.com/book/show/41044096-island-of-the-blue-dolphins)
+
+### Ray Bradbury
+* [Fahrenheit 451](https://www.goodreads.com/book/show/13079982-fahrenheit-451)
 
 # Essays
 * Teoría King Kong (King Kong Theory)
