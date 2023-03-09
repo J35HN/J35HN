@@ -45,5 +45,8 @@
 ### Adam Silvera
 * [They Both Die at the End](https://www.goodreads.com/book/show/33385229-they-both-die-at-the-end)
 
+### Harper Lee
+* [To Kill a Mockingbird](https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird)
+
 # Essays
 * Teoría King Kong (King Kong Theory)
