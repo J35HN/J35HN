@@ -30,6 +30,9 @@
 ### Arthur Conan Doyle
 * [A Study in Scarlet](https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet)
 
+### Markus Zusak
+* [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief)
+
 
 # Essays
 * Teoría King Kong (King Kong Theory)
