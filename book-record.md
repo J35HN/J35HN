@@ -33,6 +33,8 @@
 ### Markus Zusak
 * [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief)
 
+### John Boyne
+* [The Boy in the Striped Pajamas](https://www.goodreads.com/book/show/39999.The_Boy_in_the_Striped_Pajamas)
 
 # Essays
 * Teoría King Kong (King Kong Theory)
