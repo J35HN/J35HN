@@ -26,7 +26,10 @@
 * [Catching Fire](https://www.goodreads.com/book/show/6148028-catching-fire)
 * [Mockingjay](https://www.goodreads.com/book/show/7260188-mockingjay)
 
-* Sherlock Holmes
+# Novels
+### Arthur Conan Doyle
+* [A Study in Scarlet](https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet)
+
 
 # Essays
 * Teoría King Kong (King Kong Theory)
