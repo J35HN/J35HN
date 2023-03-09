@@ -48,5 +48,11 @@
 ### Harper Lee
 * [To Kill a Mockingbird](https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird)
 
+### Lois Lowry 
+* [The Giver](https://www.goodreads.com/book/show/3636.The_Giver)
+
+### Scott O'Dell
+* [Island of the Blue Dolphins](https://www.goodreads.com/book/show/41044096-island-of-the-blue-dolphins)
+
 # Essays
 * Teoría King Kong (King Kong Theory)
