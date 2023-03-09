@@ -14,6 +14,9 @@
 * [National Museum (Norway)](https://www.nasjonalmuseet.no/en/)
 * [WikiArt](https://www.wikiart.org/)
 
+### Cinematography
+* [streetstruck](https://www.youtube.com/@streetstruck99/featured)
+
 ## CS
 * [Build-Your-Own-X](https://github.com/codecrafters-io/build-your-own-x)
 * [Modify a VSCode Theme](https://www.alveeakand.com/how-to-modify-themes-in-vscode/)
