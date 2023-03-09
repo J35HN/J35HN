@@ -56,5 +56,9 @@
 ### Ray Bradbury
 * [Fahrenheit 451](https://www.goodreads.com/book/show/13079982-fahrenheit-451)
 
+### Louis Sachar
+* [Wayside School Is Falling Down](https://www.goodreads.com/book/show/10065.Wayside_School_Is_Falling_Down)
+* [Holes](https://www.goodreads.com/book/show/38709.Holes)
+
 # Essays
 * Teoría King Kong (King Kong Theory)
