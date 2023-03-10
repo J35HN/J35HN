@@ -75,3 +75,6 @@
 
 ### Virginie Despentes
 * [Teoría King Kong (King Kong théorie)](https://www.goodreads.com/book/show/2099048.King_Kong_th_orie)
+
+### Daniel Quinn
+* [Ishmael](https://www.goodreads.com/book/show/40611328-ishmael)
