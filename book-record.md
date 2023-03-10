@@ -69,5 +69,9 @@
 * [Ban Jas Ader: Suspendido entre la risa y el llanto](https://maz.zapopan.gob.mx/portfolio_page/suspendido-entre-la-risa-y-el-llanto/)
 * [Antonio Ramírez: Dibujos](https://portal.zapopan.gob.mx/maz/Propuesta/expos2012/AntonioRamirez/AntonioRamirez.html)
 
-# Essays
-* Teoría King Kong (King Kong Theory)
+# _Ensayos_ (Essays)
+### Fernando Savater
+* [Ética para Amador](https://www.goodreads.com/book/show/112646._tica_para_Amador)
+
+### Virginie Despentes
+* [Teoría King Kong (King Kong théorie)](https://www.goodreads.com/book/show/2099048.King_Kong_th_orie)
