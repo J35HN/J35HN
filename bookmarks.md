@@ -24,6 +24,9 @@
 * [Hacker News](https://news.ycombinator.com/)
 * [NeetCode](https://neetcode.io/)
 
+## Food
+* [Gozney](https://www.youtube.com/@gozney/featured)
+
 ## Books / Courses
 ### Video Games
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/)
