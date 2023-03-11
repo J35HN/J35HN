@@ -68,6 +68,7 @@
 * [Constante: La Nueva Babiloinia (Museo de Arte de Zapopan, Agosto-Noviembre 2010)](https://maz.zapopan.gob.mx/portfolio_page/constante-la-nueva-babilonia/)
 * [Ban Jas Ader: Suspendido entre la risa y el llanto](https://maz.zapopan.gob.mx/portfolio_page/suspendido-entre-la-risa-y-el-llanto/)
 * [Antonio Ramírez: Dibujos](https://portal.zapopan.gob.mx/maz/Propuesta/expos2012/AntonioRamirez/AntonioRamirez.html)
+* [México y sus imágenes (colección Televisa)](https://www.manuelalvarezbravo.org/es/colecciones-premios/)
 
 # _Ensayos_ (Essays)
 ### Fernando Savater
