@@ -29,6 +29,7 @@ _I like the name Jesh, and this is basically my resume/portfolio._
 * I _love_ **team management** and viewing how a company **organizes a project** (tools, documents, content, etc). 
 * I _HATE_ **web** & **app** **development**. 
 * I have experience in **C++**, **Python**, and **C#**. 
+* Tools that I use: **Github**, **VS Code**, **Discord**, **Drive**, and others...
 
 ## 🚩 My Experience 
 ### Volunteering
