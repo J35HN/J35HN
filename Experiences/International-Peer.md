@@ -1,0 +1,1 @@
+International Peer Mentor, meaning I'm a peer to a group of 15 international students at my university. Apart from answering their questions and helping them adapt to the Mexican culture (and the city of Guadalajara), I help out in events that directly involve international students on my Campus.
