@@ -1,0 +1,2 @@
+Did 100 hours of social service. Helped in creating documents and material for social media diffusion, such as pdfs and presentations. The presentation created ended up being used in all of their 2022 events.
+Got an acknowledgment (with other 6 students) for my work and the impact it had.
