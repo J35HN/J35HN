@@ -64,6 +64,9 @@
 * [The Lightning Thief](https://www.goodreads.com/book/show/28187.The_Lightning_Thief)
 * [The Sea of Monsters](https://www.goodreads.com/book/show/28186.The_Sea_of_Monsters)
 
+### Tom DeMarco
+* [The Deadline: A Novel about Project Management](https://www.goodreads.com/book/show/123716.The_Deadline)
+
 # Art
 * [Constante: La Nueva Babiloinia (Museo de Arte de Zapopan, Agosto-Noviembre 2010)](https://maz.zapopan.gob.mx/portfolio_page/constante-la-nueva-babilonia/)
 * [Ban Jas Ader: Suspendido entre la risa y el llanto](https://maz.zapopan.gob.mx/portfolio_page/suspendido-entre-la-risa-y-el-llanto/)
