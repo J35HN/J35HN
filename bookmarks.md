@@ -27,6 +27,9 @@
 ## Food
 * [Gozney](https://www.youtube.com/@gozney/featured)
 
+## Music
+* [everynoise](https://everynoise.com/)
+
 ## Books / Courses
 ### Video Games
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/)
