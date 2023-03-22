@@ -38,3 +38,4 @@
 * [Pixel Art](http://www.yarrninja.com/pixeltutorial/)
 ### Artist
 * [Frank Auerbach](https://www.artnet.com/artists/frank-auerbach/)
+* [Willem de Kooning](https://www.artnet.com/artists/willem-de-kooning/)
