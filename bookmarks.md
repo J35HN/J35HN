@@ -34,5 +34,7 @@
 ### Video Games
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 
-### Art
+## Art
 * [Pixel Art](http://www.yarrninja.com/pixeltutorial/)
+### Artist
+* [Frank Auerbach](https://www.artnet.com/artists/frank-auerbach/)
