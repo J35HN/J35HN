@@ -23,6 +23,7 @@
 * [GDLJS](https://www.gdljs.com/)
 * [Hacker News](https://news.ycombinator.com/)
 * [NeetCode](https://neetcode.io/)
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
 ## Food
 * [Gozney](https://www.youtube.com/@gozney/featured)
