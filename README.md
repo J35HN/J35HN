@@ -31,7 +31,7 @@ _I like the name Jesh, and this is basically my resume/portfolio._
 * I have experience in **C++**, **Python**, and **C#**. 
 * Tools that I use: **Github**, **VS Code**, **Discord**, **Drive**, and others...
 
-## 🚩 My Experience 
+## 🚩 Experience 
 ### Volunteering
 * Campamento Tortuguero Sayulita.
 * Mundo Daki.
