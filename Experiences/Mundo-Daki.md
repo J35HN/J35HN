@@ -1,1 +1,2 @@
 Did 120 hours of social service. I worked with a team of 5 to create a proposal for a Kickstarter to raise funds for their next project, a comic. The proposal included all the necessary media, a detailed description of the project, over 10 rewards designed, and the amount of money required for a viable Kickstarter campaign.
+a
