@@ -15,3 +15,5 @@
 
 ## Maybe will not read
 * [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate)
+* [Design Patterns](https://www.goodreads.com/book/show/85009.Design_Patterns)
+* [Designing Software Architectures](https://www.goodreads.com/book/show/27283384-designing-software-architectures)
