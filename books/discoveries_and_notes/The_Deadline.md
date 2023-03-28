@@ -21,7 +21,7 @@
   * lead with the heart,
   * trust your gut (trust your hunches),
   * build soul into the organization,
-  * develop a nose for bullshit. 
+  * develop a nose for **bullshit**. 
 
 ## Battle Command As a Metaphor for Management
 * By the time the battle begins, the manager’s real work is already done.
@@ -129,7 +129,7 @@
 * The small ceremony beginning “May I help by trying to mediate for you?” can be an essential first step in conflict resolution. 
 
 ## Human Error
-* It’s not what you don’t know that kills you… it’s what you know that isn’t so. 
+* It’s not what you **don’t** know that kills you… it’s what you know that isn’t so. 
 
 ## Staff Level
 * Early overstaffing tends to force projects into shortcutting the key design activity (to give all those people something to do).
