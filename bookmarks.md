@@ -24,6 +24,7 @@
 * [Hacker News](https://news.ycombinator.com/)
 * [NeetCode](https://neetcode.io/)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+* [MDN documentation](https://developer.mozilla.org/en-US/)
 
 ## Food
 * [Gozney](https://www.youtube.com/@gozney/featured)
