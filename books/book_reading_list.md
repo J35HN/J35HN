@@ -13,6 +13,9 @@
 * [Code Simplicity](https://www.goodreads.com/book/show/13234063-code-simplicity)
 * [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
 
+## Other
+* [El Futuro Recordado](https://www.goodreads.com/book/show/53903449-el-futuro-recordado)
+
 ## Maybe will not read
 * [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate)
 * [Design Patterns](https://www.goodreads.com/book/show/85009.Design_Patterns)
