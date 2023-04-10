@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 _I like the name Jesh, and this is basically my resume/portfolio._
 * I’m currently a CS student at [_Tecnológico de Monterrey Campus Guadalajara_](https://tec.mx/en) (**ITESM**). 
 * International Peer Mentor at Campus (**ITESM**).
-* Memeber of the [iGEM](https://igem.org/) [Neotech-e](https://www.instagram.com/igemtec_gdl/) student commnuity in the division **Wiki Core**.
+* Memeber of the [iGEM](https://igem.org/) [Neotech-e](https://www.instagram.com/igemtec_gdl/) student group in the division **Wiki Core**.
 
 ## ✨ About Me
 * I _love_ **team & project management** and viewing how a company **organizes a project** (tools, documents, content, etc). 
