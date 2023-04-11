@@ -5,6 +5,7 @@
 * [New Moon](https://www.goodreads.com/book/show/49041.New_Moon)
 * [Eclipse](https://www.goodreads.com/book/show/428263.Eclipse)
 * [Breaking Dawn](https://www.goodreads.com/book/show/1162543.Breaking_Dawn)
+* Song of Achilles.
 
 ## CS
 * [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
