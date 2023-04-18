@@ -25,6 +25,7 @@
 * [NeetCode](https://neetcode.io/)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 * [MDN documentation](https://developer.mozilla.org/en-US/)
+* [DZone](https://dzone.com/pages/about)
 
 ## Food
 * [Gozney](https://www.youtube.com/@gozney/featured)
