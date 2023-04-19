@@ -27,6 +27,7 @@
 * [MDN documentation](https://developer.mozilla.org/en-US/)
 * [Git](https://git-scm.com/book/en/v2)
 * [DZone](https://dzone.com/pages/about)
+* [Vercel](https://vercel.com/)
 
 ## Food
 * [Gozney](https://www.youtube.com/@gozney/featured)
