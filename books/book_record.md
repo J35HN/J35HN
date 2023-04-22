@@ -82,3 +82,7 @@
 
 ### Daniel Quinn
 * [Ishmael](https://www.goodreads.com/book/show/40611328-ishmael)
+  
+# Manga
+### Hajime Isayama
+* [Attack on Titan](https://www.goodreads.com/series/315913-attack-on-titan-chapters)
