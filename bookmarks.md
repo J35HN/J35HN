@@ -13,6 +13,12 @@
 ## Art
 * [National Museum (Norway)](https://www.nasjonalmuseet.no/en/)
 * [WikiArt](https://www.wikiart.org/)
+* [Pixel Art](http://www.yarrninja.com/pixeltutorial/)
+### Artist
+* [Frank Auerbach](https://www.artnet.com/artists/frank-auerbach/)
+* [Willem de Kooning](https://www.artnet.com/artists/willem-de-kooning/)
+* [Francis Bacon](https://www.artnet.com/artists/francis-bacon/)
+* [Sandro Kopp](https://sandrokopp.com/)
 
 ### Cinematography
 * [streetstruck](https://www.youtube.com/@streetstruck99/featured)
@@ -38,11 +44,3 @@
 ## Books / Courses
 ### Video Games
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/)
-
-## Art
-* [Pixel Art](http://www.yarrninja.com/pixeltutorial/)
-### Artist
-* [Frank Auerbach](https://www.artnet.com/artists/frank-auerbach/)
-* [Willem de Kooning](https://www.artnet.com/artists/willem-de-kooning/)
-* [Francis Bacon](https://www.artnet.com/artists/francis-bacon/)
-* [Sandro Kopp](https://sandrokopp.com/)
