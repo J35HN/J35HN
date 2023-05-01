@@ -19,6 +19,7 @@
 * [Willem de Kooning](https://www.artnet.com/artists/willem-de-kooning/)
 * [Francis Bacon](https://www.artnet.com/artists/francis-bacon/)
 * [Sandro Kopp](https://sandrokopp.com/)
+* [John William Waterhouse](https://www.artnet.com/artists/john-william-waterhouse/)
 
 ### Cinematography
 * [streetstruck](https://www.youtube.com/@streetstruck99/featured)
