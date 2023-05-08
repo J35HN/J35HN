@@ -13,6 +13,7 @@
 * [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 * [Code Simplicity](https://www.goodreads.com/book/show/13234063-code-simplicity)
 * [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
+* [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 
 ## Other
 * [El Futuro Recordado](https://www.goodreads.com/book/show/53903449-el-futuro-recordado)
