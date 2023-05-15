@@ -86,3 +86,7 @@
 # Manga
 ### Hajime Isayama
 * [Attack on Titan](https://www.goodreads.com/series/315913-attack-on-titan-chapters)
+
+# Self-Help
+### Wendy Maltz
+* [The Porn Trap](https://www.goodreads.com/book/show/1520669.The_Porn_Trap)
