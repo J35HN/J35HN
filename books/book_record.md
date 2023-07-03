@@ -67,6 +67,9 @@
 ### Tom DeMarco
 * [The Deadline: A Novel about Project Management](https://www.goodreads.com/book/show/123716.The_Deadline)
 
+### Stephenie Mayer
+* [Twilight](https://www.goodreads.com/book/show/41865.Twilight)
+
 # Art
 * [Constante: La Nueva Babiloinia (Museo de Arte de Zapopan, Agosto-Noviembre 2010)](https://maz.zapopan.gob.mx/portfolio_page/constante-la-nueva-babilonia/)
 * [Ban Jas Ader: Suspendido entre la risa y el llanto](https://maz.zapopan.gob.mx/portfolio_page/suspendido-entre-la-risa-y-el-llanto/)
@@ -82,6 +85,9 @@
 
 ### Daniel Quinn
 * [Ishmael](https://www.goodreads.com/book/show/40611328-ishmael)
+
+### Mark Manson
+* [The Subtle Art of Not Giving a F*ck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
   
 # Manga
 ### Hajime Isayama
