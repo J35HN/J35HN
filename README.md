@@ -42,6 +42,6 @@ _I like the name Jesh, and this is basically my resume/portfolio._
 
 
 ## 🎨Apart from CS
-What I love about this world are the experiences it can offer. And I enjoy life through [books](https://github.com/J35HN/J35HN/blob/main/book-record.md), art, [music](https://open.spotify.com/user/zcarlsn5bxslhx81ksavsnekv?si=491b73fe330f456c), food, and [video games](https://steamcommunity.com/id/pigihunter/). 
+What I love about this world are the experiences it can offer. And I enjoy life through [books](https://github.com/J35HN/J35HN/blob/main/books/book_record.md), art, [music](https://open.spotify.com/user/zcarlsn5bxslhx81ksavsnekv?si=491b73fe330f456c), food, and [video games](https://steamcommunity.com/id/pigihunter/). 
 * I’m currently reading:
   * (nothing! Still searching for a book :o)
