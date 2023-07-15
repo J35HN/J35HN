@@ -69,6 +69,7 @@
 
 ### Stephenie Mayer
 * [Twilight](https://www.goodreads.com/book/show/41865.Twilight)
+* [New Moon](https://www.goodreads.com/book/show/49041.New_Moon)
 
 # Art
 * [Constante: La Nueva Babiloinia (Museo de Arte de Zapopan, Agosto-Noviembre 2010)](https://maz.zapopan.gob.mx/portfolio_page/constante-la-nueva-babilonia/)
