@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 _I like the name Jesh, and this is basically my resume/portfolio._
 * I’m currently a CS student at [_Tecnológico de Monterrey Campus Guadalajara_](https://tec.mx/en) (**ITESM**). 
 * Intern @ [Amber Studios México](https://amberstudio.com/location-guadalajara); working on a **Roblox project**.
-* Memeber of the [iGEM](https://igem.org/) [Neotech-e](https://www.instagram.com/igemtec_gdl/) student group in the division **Wiki Core**.
+* Memeber of the [iGEM](https://igem.org/) [Neotech-e](https://www.instagram.com/igemtec_gdl/) student group in the division **[Wiki](https://2023.igem.wiki/tecmonterreygdl/) Core**.
 * Ex-[International Peer Mentor](https://github.com/J35HN/J35HN/blob/main/experiences/International_Peer.md) at Campus (**ITESM**).
 
 ## ✨ About Me
