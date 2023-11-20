@@ -1,7 +1,6 @@
 # Book Reading List
 ## Fantasy 
 * [Bridge to Terabithia](https://www.goodreads.com/book/show/40940121-bridge-to-terabithia)
-* [Eclipse](https://www.goodreads.com/book/show/428263.Eclipse)
 * [Breaking Dawn](https://www.goodreads.com/book/show/1162543.Breaking_Dawn)
 * Song of Achilles.
 * [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
