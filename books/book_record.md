@@ -73,6 +73,9 @@
 * [Eclipse](https://www.goodreads.com/book/show/428263.Eclipse)
 * [Breaking Dawn](https://www.goodreads.com/book/show/1162543.Breaking_Dawn)
 
+### Stephen King
+* [The Shining](https://www.goodreads.com/book/show/11588.The_Shining)
+
 # Art
 * [Constante: La Nueva Babiloinia (Museo de Arte de Zapopan, Agosto-Noviembre 2010)](https://maz.zapopan.gob.mx/portfolio_page/constante-la-nueva-babilonia/)
 * [Ban Jas Ader: Suspendido entre la risa y el llanto](https://maz.zapopan.gob.mx/portfolio_page/suspendido-entre-la-risa-y-el-llanto/)
