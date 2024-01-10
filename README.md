@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <!--![banner](https://user-images.githubusercontent.com/72514826/224431446-60496e02-1863-43a6-ae85-b19b5c1d984d.png)-->
 
+<!--
 <div align="center">
  <a href = "https://www.linkedin.com/in/jeshuanavaavila/"> <strong><sub><i> LinkedIn </i></sub></strong> </a>
  <a href = "https://www.instagram.com/yllaertontubhsej/"> <strong><sub><i> Instagram </i></sub></strong> </a>
@@ -47,3 +48,7 @@ _I like the name Jesh, and this is basically my resume/portfolio._
 What I love about this world are the experiences it can offer. And I enjoy life through [books](https://github.com/J35HN/J35HN/blob/main/books/book_record.md), art, [music](https://open.spotify.com/user/zcarlsn5bxslhx81ksavsnekv?si=491b73fe330f456c), food, and [video games](https://steamcommunity.com/id/pigihunter/). 
 * I’m currently reading:
   * Atomic Habits.
+--->
+
+My name is Jeshua, but I like the name _Jesh_.
+* I’m currently a CS student at [_Tecnológico de Monterrey Campus Guadalajara_](https://tec.mx/en) (**ITESM**). 
