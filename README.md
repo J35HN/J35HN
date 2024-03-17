@@ -48,7 +48,10 @@ _I like the name Jesh, and this is basically my resume/portfolio._
 What I love about this world are the experiences it can offer. And I enjoy life through [books](https://github.com/J35HN/J35HN/blob/main/books/book_record.md), art, [music](https://open.spotify.com/user/zcarlsn5bxslhx81ksavsnekv?si=491b73fe330f456c), food, and [video games](https://steamcommunity.com/id/pigihunter/). 
 * I’m currently reading:
   * Atomic Habits.
---->
-
 My name is Jeshua, but I like the name _Jesh_.
 * I’m currently a CS student at [_Tecnológico de Monterrey Campus Guadalajara_](https://tec.mx/en) (**ITESM**). 
+--->
+
+<div align = "center">
+  <p style = "font-weight: bolder;">j35hn.github.io</p>
+</div>
